@@ -13,4 +13,6 @@ O **Hobbify** é uma plataforma simplificada desenvolvida para auxiliar na organ
 - **Controle de Versão:** Git / GitHub
 - **Gestão de Projeto:** Metodologia Ágil / Kanban
 
+- https://github.com/gabrielricci-creator
+
 
