@@ -13,7 +13,4 @@ O **Hobbify** é uma plataforma simplificada desenvolvida para auxiliar na organ
 - **Controle de Versão:** Git / GitHub
 - **Gestão de Projeto:** Metodologia Ágil / Kanban
 
-## 📌 Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/hobbify.git](https://github.com/seu-usuario/hobbify.git)
+
