@@ -28,7 +28,7 @@ O **Hobbify** é uma plataforma simplificada desenvolvida para auxiliar na organ
 
 ---
 
-## 2. Definindo o MVP (Produto Mínimo Viável)
+## 2. Definindo o MVP
 O MVP do Hobbify foca exclusivamente na gestão essencial de hábitos e hobbies, permitindo cadastro, registro de execução e acompanhamento visual sem complexidades desnecessárias.
 
 ---
