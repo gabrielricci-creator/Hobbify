@@ -17,7 +17,7 @@ O **Hobbify** é uma plataforma simplificada desenvolvida para auxiliar na organ
 
 
 
--  #AULA 2 - CONCEPÇÃO: DO PROBLEMA AO MVP
+-  # #AULA 2 - CONCEPÇÃO: DO PROBLEMA AO MVP
 
 # 1. Pesquisa e Definição de Personas
 
